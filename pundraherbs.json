@@ -1,28 +1,28 @@
 {
-  "page-title": "Ayurvedic Medicine for Liver | Live Syrup",
-  "product-img": {
-    "img-src": "img/portfolio/46-large-image.png ",
+  "pageTitle": "Ayurvedic Medicine for Liver | Live Syrup",
+  "productTitle": "A Syrup",
+  "productImg": {
+    "src": "img/portfolio/46-large-image.png ",
     "alt": "A syrup",
     "title": "A syrup"
   },
-  "product-title": "A Syrup",
-  "product-description": {
+  "productDescription": {
     "line1": "A Syrup is an.",
     "line2": "helps in digestion of food."
   },
-  "product-indication": {
+  "indication": {
     "title": "Indication",
     "listOfIndications": [
       "Burning ",
       "stomach-ache"
     ]
   },
-  "product-ingredient": {
+  "ingredient": {
     "title": "Ingredients",
     "listOfIngredients": [
       {
-        "ingredient-name": "T olia",
-        "ingredient-amount": "200.0 mg"
+        "ingredientName": "T olia",
+        "ingredientAmount": "200.0 mg"
       },
       {
         "ingredient-name": "Fo lgare",
@@ -32,7 +32,7 @@
   },
   "dosage": {
     "title": "Dosage",
-    "available-dosages": [
+    "availableDosages": [
       "Adult: 2 teaspoonfuls or as directed by physician",
       "Children: 1 teaspoonful or 5ml"
     ]
@@ -43,7 +43,7 @@
   },
   "packing": {
     "title": "Packing",
-    "available-sizes": [
+    "availableSizes": [
       "100 ml",
       "200 ml"
     ]
