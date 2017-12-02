@@ -1,0 +1,51 @@
+{
+  "page-title": "Ayurvedic Medicine for Liver | Live Syrup",
+  "product-img": {
+    "img-src": "img/portfolio/46-large-image.png ",
+    "alt": "A syrup",
+    "title": "A syrup"
+  },
+  "product-title": "A Syrup",
+  "product-description": {
+    "line1": "A Syrup is an.",
+    "line2": "helps in digestion of food."
+  },
+  "product-indication": {
+    "title": "Indication",
+    "listOfIndications": [
+      "Burning ",
+      "stomach-ache"
+    ]
+  },
+  "product-ingredient": {
+    "title": "Ingredients",
+    "listOfIngredients": [
+      {
+        "ingredient-name": "T olia",
+        "ingredient-amount": "200.0 mg"
+      },
+      {
+        "ingredient-name": "Fo lgare",
+        "ingredient-amount": "200.0mg"
+      }
+    ]
+  },
+  "dosage": {
+    "title": "Dosage",
+    "available-dosages": [
+      "Adult: 2 teaspoonfuls or as directed by physician",
+      "Children: 1 teaspoonful or 5ml"
+    ]
+  },
+  "meta": {
+    "keywords": "liver, liver syrup, pun herbs",
+    "description": "Liverin syrup is an Ayurvedic medicine which helps in improving digestion, stimulating appetite, prevents fatty infiltration in the liver."
+  },
+  "packing": {
+    "title": "Packing",
+    "available-sizes": [
+      "100 ml",
+      "200 ml"
+    ]
+  }
+}
