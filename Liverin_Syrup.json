@@ -27,6 +27,7 @@
   },
   "ingredient": {
     "title": "Ingredients",
+    "information": "Each teaspoonful (10ml) of Liverin syrup contains extract derived from:",
     "listOfIngredients": [
       {
         "ingredientName": "Andrographis Paniculate (Kalpnath)",
@@ -69,8 +70,8 @@
   "dosage": {
     "title": "Dosage",
     "availableDosages": [
-      "Adults: 2 teaspoon 3-4 times a day before meal",
-      "Adult: 2 teaspoonfuls or as directed by physician"
+      "Children: 1 teaspoon 3-4 times a day before meal",
+      "Adults: 2 teaspoon 3-4 times a day before meal"
     ]
   },
   "packing": {
